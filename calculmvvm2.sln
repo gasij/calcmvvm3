@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "calculmvvm2", "calculmvvm2\calculmvvm2.csproj", "{C376BEFB-4487-484A-B072-4A6C4D42DDDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C376BEFB-4487-484A-B072-4A6C4D42DDDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C376BEFB-4487-484A-B072-4A6C4D42DDDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C376BEFB-4487-484A-B072-4A6C4D42DDDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C376BEFB-4487-484A-B072-4A6C4D42DDDA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {48F92CFE-DEB1-40C8-89F5-822359D2B3ED}
+	EndGlobalSection
+EndGlobal
